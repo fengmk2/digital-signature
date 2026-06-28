@@ -1,6 +1,6 @@
 catalog:
-  vite: npm:@voidzero-dev/vite-plus-core@latest
-  vite-plus: latest
+  vite: npm:@voidzero-dev/vite-plus-core@0.0.0-commit.4fd595565e1b44be3b8218943e0ec5ae7d08889d
+  vite-plus: 0.0.0-commit.4fd595565e1b44be3b8218943e0ec5ae7d08889d
 overrides:
   vite: "catalog:"
 peerDependencyRules:
